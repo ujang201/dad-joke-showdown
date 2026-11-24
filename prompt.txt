@@ -1,0 +1,1 @@
+Write one original dad joke, at most 200 characters, to entry.txt: a short setup a father would tell out loud at the dinner table, with a clean turn and the punchline landing at the very end. Keep it fresh — not a joke everyone has already heard a thousand times — and keep every word earning its place.
